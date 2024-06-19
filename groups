@@ -5,9 +5,9 @@
 #🐶 Temp-Mail`select`(^(?!.*?(x )).*(HK01|SG01|US01|KR01|TH01|FR01|GM01|BR01|MY01|Seoul))
 🌈 Emby`select`[]DIRECT`(.)
 📧 Outlook`select`[]DIRECT`(x|Oracle|Korea)
-🦈 自定义`select`(.)
-🦢 swan`select`(.)
-🐬 漏网之鱼`select`[]DIRECT`(.)
+🦈 自定义`select`[]♻️ 自动选择`(.)
+🦢 swan`select`[]♻️ 自动选择`(.)
+🐬 漏网之鱼`select`[]DIRECT`[]♻️ 自动选择`(.)
 🍻 BiliBili`select`[]DIRECT`(香港|HK|TW|台湾|澳门)
 🍻 BiliBiliItl`select`[]🍻 BiliBili`(香港|HK|TW|台湾|澳门)
 🐰 国内服务`select`[]DIRECT`(.)
@@ -20,3 +20,4 @@
 🎏 苹果服务`select`[]DIRECT`(.)
 🎮 Steam`select`(.)
 🐶 JingDong`select`[]DIRECT`(Oracle|Korea)
+♻️ 自动选择`url-test`.*`http://www.gstatic.com/generate_204`300,,50
