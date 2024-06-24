@@ -1,5 +1,4 @@
-🌏 Global`select`(.)
-
+🌏 Global`select`[]♻️ 自动选择`(.)
 💫 Dropbox`select`(^(?!.*?(海外|卡拉奇|波哥大|禁止视频|英国|沙特阿拉伯|南非|海外|UK|20x|10x|5x|3x|2x|10X|8.0X|5.0X|4.0X|3.0X|2.0X)))
 🐶 Temp-Mail`select`(^(?!.*?(蜂窝|卫星|中转|动态|专线|英国|沙特阿拉伯|南非|UK|10x|5x|3x|2x)).*(Oracle|Korea|01))
 #🐶 Temp-Mail`select`(^(?!.*?(x )).*(HK01|SG01|US01|KR01|TH01|FR01|GM01|BR01|MY01|Seoul))
