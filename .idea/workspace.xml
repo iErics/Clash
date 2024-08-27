@@ -6,7 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="8345d27a-b634-4e54-a655-3e105f831407" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/groups" beforeDir="false" afterPath="$PROJECT_DIR$/groups" afterDir="false" />
+=======
+>>>>>>> ed53320 (update)
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,9 +65,15 @@
       <workItem from="1710255579324" duration="617000" />
       <workItem from="1710658516565" duration="42000" />
       <workItem from="1713100724380" duration="2166000" />
+<<<<<<< HEAD
       <workItem from="1713782755165" duration="433000" />
       <workItem from="1718802738975" duration="814000" />
       <workItem from="1718803658343" duration="5000" />
+=======
+      <workItem from="1719735029120" duration="539000" />
+      <workItem from="1719739694440" duration="236000" />
+      <workItem from="1719843339401" duration="125000" />
+>>>>>>> ed53320 (update)
     </task>
     <servers />
   </component>
