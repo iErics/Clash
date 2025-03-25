@@ -21,4 +21,4 @@
 🎏 苹果服务`select`[]DIRECT`(.)
 🎮 Steam`select`(.)
 🐶 JingDong`select`[]DIRECT`(Oracle|Korea)
-♻️ 自动选择`url-test`(.*(美国1|美国2|美国3|美国4|法国1|法国2|法国3|法国4))
+♻️ 自动选择`url-test`(美国1|美国2|美国3|美国4|法国1|法国2|法国3|法国4)
