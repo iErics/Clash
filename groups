@@ -21,4 +21,4 @@
 🎏 苹果服务`select`[]DIRECT`(.)
 🎮 Steam`select`[]DIRECT`(.)
 🐶 JingDong`select`[]DIRECT`(Oracle|Korea)
-♻️ 自动选择`url-test`(\| 专线|\| Vless|x0.5|流媒体)`http://www.gstatic.com/generate_204`1500,,80
+♻️ 自动选择`url-test`(x0.5|流媒体)`http://www.gstatic.com/generate_204`1500,,80
